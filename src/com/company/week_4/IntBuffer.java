@@ -25,7 +25,7 @@ public class IntBuffer {
         intBuffer.toString();
         System.out.println(linkedIntBuffer1);
     }
-
+    
     public int getValue() {
         return value;
     }
