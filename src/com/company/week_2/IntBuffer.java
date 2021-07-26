@@ -1,4 +1,4 @@
-package com.company.week_4;
+package com.company.week_2;
 
 public class IntBuffer {
     protected Integer value;
